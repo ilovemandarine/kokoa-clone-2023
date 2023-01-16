@@ -40,7 +40,7 @@
 #splash-screen{
     background-color: var(--purple);
     position: absolute;
-    height: 100vh;
+    height: 160vh;
     width: 100vw;
     top: 0;
     display: flex;
